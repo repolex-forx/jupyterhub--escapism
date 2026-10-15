@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "escapism",
+  "versions": [
+    {
+      "commit": "ae458c5ad90e66d42c5e55e97e1b72e128cf0b99",
+      "parsed_at": "2026-10-15T11:17:45.322712+00:00",
+      "filetree": "filetree/ae458c5ad90e66d42c5e55e97e1b72e128cf0b99.nq.gz",
+      "blobs": [
+        "blob/b6b5b9f280191611504993775ba784b134e8abaa.nq.gz",
+        "blob/e45ef1fd5e32f39d8603a6556f65d260dc6b152a.nq.gz",
+        "blob/e8e76ee1ed7e23132272a80caa3ff4afdedc6dbc.nq.gz",
+        "blob/944f38bdf10fd16aa8a47ebca30ccd0dfa90bc8a.nq.gz",
+        "blob/9c3f03cf1e44c6dd8faa644c55fa6f7555886765.nq.gz",
+        "blob/3e2174d257a94eb5b19238efcdc5c3203150c7ef.nq.gz",
+        "blob/b4d84262d479597add61b589d4103fcf184866a3.nq.gz",
+        "blob/b0dfe8b9ace20583206d01b93b917d7a0628da4c.nq.gz",
+        "blob/a8b867d7c5b474e3a261894bdbc0c14dca77df31.nq.gz",
+        "blob/7d91a7a3a4fb7da008f2ee54f4caa8ac0d245f57.nq.gz",
+        "blob/30366e93404d73e90807e550c8c607cedbdcad19.nq.gz",
+        "blob/7ef44f5bb66f33e143be731f88070d3e257f78bc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
