@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/escapism/commit/ae458c5ad90e66d42c5e55e97e1b72e128cf0b99",
       "git:hexsha": "ae458c5ad90e66d42c5e55e97e1b72e128cf0b99",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T11:19:57.939024+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/escapism/commit/35f4c194ad6de2bc3339bb8b0e522dca989143ff",
